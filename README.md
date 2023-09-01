@@ -5,8 +5,8 @@ I'm Sarmad Ashkuri, a passionate Full Stack Web Developer and musician based in 
 🌱 I'm currently learning and exploring new technologies in the web development world.
 
 🚀 I'm proficient in:
-- Frontend Development: JavaScript, React.js, Redux, axios, HTML, CSS
-- Backend Development: Node.js, Express, SQL, REST APIs
+- Front end Development: JavaScript, React.js, Redux, axios, HTML, CSS
+- Back end Development: Node.js, Express, SQL, REST APIs
 - Tools: Git, GitHub, VS Code
 
 🎵 When I'm not coding, you can find me playing the piano, playing video games, or hanging out with my cats!
